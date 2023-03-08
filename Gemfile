@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'middleman', '~> 3.4'
+gem 'middleman', '~> 4.1', '>= 4.1.11'
 
 # Deploy to GitHub Pages
-gem 'middleman-deploy', '~> 1.0'
+gem 'middleman-deploy', '~> 1.0', '>= 1.0.0'
 
 # Assets
 gem 'jquery-middleman'

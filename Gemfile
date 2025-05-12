@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'middleman', '~> 3.4'
+gem 'middleman', '~> 4.6', '>= 4.6.0'
 
 # Deploy to GitHub Pages
 gem 'middleman-deploy', '~> 1.0'
